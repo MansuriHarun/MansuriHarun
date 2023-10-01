@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansuriharun" alt="mansuriharun" /></a> </p>
 
-- 🔭 I’m currently working on **Blogging Platform Website**
+- 🔭 I’m currently working on **Note App**
 
 - 👨‍💻 All of my projects are available at [https://harunmansuri.netlify.app](https://harunmansuri.netlify.app)
 
